@@ -1,0 +1,12 @@
+.cursor{
+    cursor: pointer;
+    color: rgb(239, 240, 243)
+}
+
+.text-decorator-none{
+    text-decoration: none;
+}
+
+.f{
+    background-color: rgb(162, 176, 247);
+}
